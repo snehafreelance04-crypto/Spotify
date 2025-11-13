@@ -1,0 +1,42 @@
+.border{
+    border: 2px solid maroon;
+    margin: 3px;
+}
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.items-center{
+    align-items: center;
+}
+
+/* Scrollbar width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track (background) */
+::-webkit-scrollbar-track {
+  background: #111;       /* dark background */
+}
+
+/* Scrollbar thumb (the moving part) */
+::-webkit-scrollbar-thumb {
+  background: #444;        /* medium dark */
+  border-radius: 10px;     /* smooth round edges */
+}
+
+/* Hover effect */
+::-webkit-scrollbar-thumb:hover {
+  background: #666;        /* slightly lighter on hover */
+}
+
+  
+    
+        
+    
+
+    
+ 
